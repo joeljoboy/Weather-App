@@ -11,7 +11,7 @@
     max-width: 470px;
     background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1));
     color: #fff;
-    margin: 100px auto 0;
+    margin: 319px auto 0;
     text-align: center;
     padding: 40px 35px;
     border-radius: 20px;
@@ -89,6 +89,19 @@
 {
     font-size: 28px;
     margin-top: -6px;
+}
+.weather
+{
+    display: none;
+}
+.error
+{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+    font-weight: 600;
 }
 /* ///////////////////////////////video background//////////////////////// */
 .video-container {
